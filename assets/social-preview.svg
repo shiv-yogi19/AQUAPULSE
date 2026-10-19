@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><radialGradient id="bg" cx=".3" cy=".4" r="1"><stop offset="0" stop-color="#0b2a55"/><stop offset="1" stop-color="#02040a"/></radialGradient>
+<radialGradient id="g" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#e6fbff"/><stop offset=".35" stop-color="#37d6ff"/><stop offset=".75" stop-color="#1e5bff"/><stop offset="1" stop-color="#6a3dff"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<g transform="translate(120 125) scale(6.2)"><path d="M32 4C44 18 54 28 54 40a22 22 0 0 1-44 0C10 28 20 18 32 4Z" fill="url(#g)"/><path d="M18 40c5-6 9 6 14 0s9 6 14 0" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="2.5" stroke-linecap="round"/><ellipse cx="24" cy="26" rx="4" ry="8" fill="#fff" fill-opacity=".5" transform="rotate(25 24 26)"/></g>
+<text x="560" y="300" font-family="Helvetica,Arial,sans-serif" font-weight="700" font-size="104" fill="#eaf8ff" letter-spacing="6">AQUAPULSE</text>
+<text x="564" y="360" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#7fd8ff">Internet speed test · Water Pebble</text>
+<text x="564" y="560" font-family="Helvetica,Arial,sans-serif" font-size="26" fill="#9db4cc">Created By Shiv Yogi</text>
+</svg>
